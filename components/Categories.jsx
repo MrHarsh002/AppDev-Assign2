@@ -40,6 +40,12 @@ const Categories = () => {
         Stools
         </Text>
         </View>
+        <View>
+          <MaterialCommunityIcons name="table-furniture" size={35} color="black" />
+          <Text style={styles.iconText}>
+          Tables
+          </Text>
+        </View>
       </View>
       </ScrollView>
 
