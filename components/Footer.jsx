@@ -48,7 +48,6 @@ const styles = StyleSheet.create({
   },
   tab: {
     alignItems: "center",
-    flex: 1,
     gap: 2,
     position: "relative",
   },
